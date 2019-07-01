@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-boot-admin-server
+serve: 
+  port: 8080 ###端口号
