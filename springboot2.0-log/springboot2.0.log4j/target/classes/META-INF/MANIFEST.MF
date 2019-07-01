@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot2.0.log4j
+Implementation-Version: 0.0.1
+Built-By: Administrator
+Implementation-Vendor-Id: top.wfaceboss.log4j
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot2.0.log4j
+Created-By: Maven Integration for Eclipse
+
