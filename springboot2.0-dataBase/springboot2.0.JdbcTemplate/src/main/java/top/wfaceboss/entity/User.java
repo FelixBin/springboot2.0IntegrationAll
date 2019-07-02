@@ -10,7 +10,4 @@ public class User {
 	private Integer age;
 	private String name;
 
-	public static void main(String[] args) {
-
-	}
 }
