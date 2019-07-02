@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot2.0.lombok
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: top.wfaceboss.lombok
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot2.0.lombok
+Created-By: Maven Integration for Eclipse
+
