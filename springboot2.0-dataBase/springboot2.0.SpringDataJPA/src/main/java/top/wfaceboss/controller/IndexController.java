@@ -20,6 +20,5 @@ public class IndexController {
 		UserEntity reusltUser = userOptional.get();
 
 		return reusltUser == null ? "没有查询到数据" : reusltUser;
-
 	}
 }
